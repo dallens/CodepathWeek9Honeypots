@@ -288,6 +288,8 @@ Not undertaken due to rules regulating on campus wifi.
 
 ## Honeypot Report
 ![](https://github.com/dallens/CodepathWeek9Honeypots/blob/master/w9_scangif.gif)
+![](https://github.com/dallens/CodepathWeek9Honeypots/blob/master/w9_adminconsole.png)
+1. Honeypot Deployed: Dionaea
 1. Honeypot Deployed: Dionaea
   - [ ] Summary:
     - Number of Attacks: 1102
