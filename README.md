@@ -287,7 +287,7 @@ The initial upatre malware that downloaded dyreza was delivered via a .zip file 
 Not undertaken due to rules regulating on campus wifi.
 
 ## Honeypot Report
-
+![](https://github.com/dallens/CodepathWeek9Honeypots/blob/master/w9_scangif.gif)
 1. Honeypot Deployed: Dionaea
   - [ ] Summary:
     - Number of Attacks: 1102
